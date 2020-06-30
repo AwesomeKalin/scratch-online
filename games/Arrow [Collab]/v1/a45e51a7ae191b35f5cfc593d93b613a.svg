@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="13.39880004884928" height="13.65140071871012" viewBox="1.4130999278916445 0.5292998981370058 13.39880004884928 13.65140071871012">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#FBB01C" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FBAF1C" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#FFAB20" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FBB11C" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" x2="1">
+      <stop offset="0" stop-color="#F7971E" stop-opacity="1"/>
+      <stop offset="1" stop-color="#F7971E" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" x2="1">
+      <stop offset="0" stop-color="#F7971E" stop-opacity="1"/>
+      <stop offset="1" stop-color="#F7971E" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_5" x2="1">
+      <stop offset="0" stop-color="#C06B29" stop-opacity="1"/>
+      <stop offset="1" stop-color="#C16C29" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-0.7018605470657349,0.7123144268989563,0.7123144268989563,0.7018605470657349,48.35000000000002,-289.95" x2="5.1645" x1="8.0421" y1="1.5779" y2="4.4983" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBB01C" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FBAF1C" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.7662796103395522">
+    <path id="ID0.4291090755723417" fill="url(#grad_1-0.7018605470657349,0.7123144268989563,0.7123144268989563,0.7018605470657349,48.35000000000002,-289.95)" stroke="url(#grad_2)" stroke-width="2.0000000702958" stroke-linecap="round" d="M 8.0421 1.5779 L 8.085 7.376 L 13.8119 7.2629 L 8.0421 1.5779 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+    <path id="ID0.4291090755723417" fill="#F7971E" stroke="url(#grad_3)" stroke-width="1.999999991569105" stroke-linecap="round" d="M 13.8112 7.2854 L 8.0132 7.3371 L 8.1349 13.0638 L 13.8112 7.2854 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+    <path id="ID0.4291090755723417" fill="#F7971E" stroke="url(#grad_4)" stroke-width="1.999999991569105" stroke-linecap="round" d="M 7.7657 1.5293 L 7.818 7.3981 L 2.4792 7.4103 L 7.7657 1.5293 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+    <path id="ID0.4291090755723417" fill="#C16C29" stroke="url(#grad_5)" stroke-width="2.000000152609045" stroke-linecap="round" d="M 2.4131 7.4024 L 7.6819 7.4535 L 7.7416 13.1807 L 7.6702 13.1107 L 2.4131 7.4024 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+    <path id="ID0.6712332242168486" fill="#F6961E" stroke="#F7971E" stroke-width="1.312835107144259" stroke-linecap="round" d="M 8.6633 7.2389 L 9.0074 7.2389 L 13.3158 7.8595 L 11.4988 10.1645 L 8.6908 12.8685 L 8.6633 7.2389 Z "/>
+    <path id="ID0.6712332242168486" fill="#F6961E" stroke="#F7971E" stroke-width="1.3128351171956576" stroke-linecap="round" d="M 8.4334 6.5253 L 8.4317 6.1812 L 7.7897 1.8759 L 5.4937 3.7043 L 2.8037 6.5258 L 8.4334 6.5253 Z "/>
+    <path id="ID0.6712332242168486" fill="#FEAB1F" stroke="#FEAB1F" stroke-width="1.312835159069418" stroke-linecap="round" d="M 8.6793 6.5432 L 8.6821 6.1991 L 8.761 2.0014 L 11.2229 4.4994 L 13.4223 6.5685 L 8.6793 6.5432 Z "/>
+  </g>
+</svg>

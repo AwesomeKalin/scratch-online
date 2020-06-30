@@ -6,3 +6,5 @@ Games on the site:
 [⭐UPD2] D O D G E 2 (By icmy123)
 
 2048 [Remake] (by TimMcCool)
+
+Arrow [Collab] (by kevin_eleven_1234)
