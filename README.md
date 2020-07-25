@@ -18,3 +18,5 @@ Bubble Jump (by Jumper133)
 Cards (by GoldenEagleStudios)
 
 Catch The Dots (by Me!)
+
+Confusion~ a platformer remix (by ev891)
