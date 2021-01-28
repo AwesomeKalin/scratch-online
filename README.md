@@ -24,3 +24,5 @@ Confusion~ a platformer remix (by ev891)
 Flipnote Studio: Scratch Edition (by ToadfanSchool)
 
 Forest Generator (by gamemaker5)
+
+Hunted (by TheFlamingArrow34)
